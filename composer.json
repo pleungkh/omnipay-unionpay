@@ -16,7 +16,7 @@
     "无跳转支付",
     "laravel"
   ],
-  "homepage": "https://github.com/lokielse/omnipay-unionpay",
+  "homepage": "https://github.com/pleungkh/omnipay-unionpay",
   "license": "MIT",
   "authors": [
     {
